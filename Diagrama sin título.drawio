@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cn9_VNKBqU6tYOXefli3-66" value="Includ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cn9_VNKBqU6tYOXefli3-64">
+        <mxCell id="Cn9_VNKBqU6tYOXefli3-66" value="included" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cn9_VNKBqU6tYOXefli3-64">
           <mxGeometry x="-0.152" y="3" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -112,7 +112,7 @@
             <mxPoint x="690" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cn9_VNKBqU6tYOXefli3-71" value="&lt;div&gt;Extend&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cn9_VNKBqU6tYOXefli3-70">
+        <mxCell id="Cn9_VNKBqU6tYOXefli3-71" value="Extended" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Cn9_VNKBqU6tYOXefli3-70">
           <mxGeometry x="0.3443" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
